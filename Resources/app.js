@@ -1,5 +1,3 @@
-//calle 2b # 18-43 barrio libertadores
-
 var mainWin = Ti.UI.createWindow({
 	title : "Objects",
 	modal : true,
